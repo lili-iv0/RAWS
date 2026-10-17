@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c542514f5ef81541939702c6ca90536, type: 3}
+  m_Name: suppliescheck
+  m_EditorClassIdentifier: Assembly-CSharp::QuestData
+  questID: check_supplies
+  questTitle: Check for Supplies
+  description: There is a storm approaching, check the house for food and supplies
+  steps:
+  - stepID: 'collect_supply_1 '
+    description: 'Find 10 Bread '
+    type: 0
+    requiredItem: {fileID: 11400000, guid: 7dd7db12a50e4ec47ba84bb5e9cc9d2d, type: 2}
+    requiredAmount: 10
+    targetObjectID: 
+    targetZoneID: 
+    isComplete: 0
+  - stepID: 'collect_supply_2 '
+    description: Find drinkable water (10 bottles)
+    type: 0
+    requiredItem: {fileID: 11400000, guid: a090c62b74730554490fc78003c2e188, type: 2}
+    requiredAmount: 10
+    targetObjectID: 
+    targetZoneID: 
+    isComplete: 0

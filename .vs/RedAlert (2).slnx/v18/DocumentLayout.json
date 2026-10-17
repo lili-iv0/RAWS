@@ -1,0 +1,267 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\RedAlert\\RedAlert (2)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\admin\\redalert\\redalert (2)\\assets\\scripts\\ostmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ostmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\admin\\redalert\\redalert (2)\\assets\\scripts\\winconditionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\winconditionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\admin\\redalert\\redalert (2)\\assets\\doorsound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\doorsound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\admin\\redalert\\redalert (2)\\assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\admin\\redalert\\redalert (2)\\assets\\pausecanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\pausecanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\RedAlert\\RedAlert (2)\\Assets\\scripts\\Player\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\Player\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\admin\\redalert\\redalert (2)\\assets\\scripts\\mainmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\admin\\redalert\\redalert (2)\\assets\\scripts\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\admin\\redalert\\redalert (2)\\assets\\scripts\\clickdebugger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\clickdebugger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\admin\\redalert\\redalert (2)\\assets\\scripts\\lockableladder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lockableladder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\admin\\redalert\\redalert (2)\\assets\\scripts\\minigame\\windowrepairrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\minigame\\windowrepairrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\admin\\redalert\\redalert (2)\\assets\\scripts\\windowinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\windowinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\admin\\redalert\\redalert (2)\\assets\\scripts\\playerspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\RedAlert\\RedAlert (2)\\Assets\\scripts\\Player\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\Player\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\admin\\redalert\\redalert (2)\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OSTManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\RedAlert\\RedAlert (2)\\Assets\\scripts\\OSTManager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\OSTManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\RedAlert\\RedAlert (2)\\Assets\\scripts\\OSTManager.cs",
+              "RelativeToolTip": "Assets\\scripts\\OSTManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T14:15:19.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WinConditionManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\RedAlert\\RedAlert (2)\\Assets\\scripts\\WinConditionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\WinConditionManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\RedAlert\\RedAlert (2)\\Assets\\scripts\\WinConditionManager.cs",
+              "RelativeToolTip": "Assets\\scripts\\WinConditionManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T14:11:04.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoorSound.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\RedAlert\\RedAlert (2)\\Assets\\DoorSound.cs",
+              "RelativeDocumentMoniker": "Assets\\DoorSound.cs",
+              "ToolTip": "C:\\Users\\Admin\\RedAlert\\RedAlert (2)\\Assets\\DoorSound.cs",
+              "RelativeToolTip": "Assets\\DoorSound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T10:23:59.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LockableLadder.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\RedAlert\\RedAlert (2)\\Assets\\scripts\\LockableLadder.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\LockableLadder.cs",
+              "ToolTip": "C:\\Users\\Admin\\RedAlert\\RedAlert (2)\\Assets\\scripts\\LockableLadder.cs",
+              "RelativeToolTip": "Assets\\scripts\\LockableLadder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T15:07:40.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WindowRepairRequirement.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\RedAlert\\RedAlert (2)\\Assets\\scripts\\Minigame\\WindowRepairRequirement.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Minigame\\WindowRepairRequirement.cs",
+              "ToolTip": "C:\\Users\\Admin\\RedAlert\\RedAlert (2)\\Assets\\scripts\\Minigame\\WindowRepairRequirement.cs",
+              "RelativeToolTip": "Assets\\scripts\\Minigame\\WindowRepairRequirement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T15:07:39.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\RedAlert\\RedAlert (2)\\Assets\\scripts\\Player\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Player\\Player.cs",
+              "ToolTip": "C:\\Users\\Admin\\RedAlert\\RedAlert (2)\\Assets\\scripts\\Player\\Player.cs",
+              "RelativeToolTip": "Assets\\scripts\\Player\\Player.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowGUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T09:08:24.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PauseCanvas.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\RedAlert\\RedAlert (2)\\Assets\\PauseCanvas.cs",
+              "RelativeDocumentMoniker": "Assets\\PauseCanvas.cs",
+              "ToolTip": "C:\\Users\\Admin\\RedAlert\\RedAlert (2)\\Assets\\PauseCanvas.cs",
+              "RelativeToolTip": "Assets\\PauseCanvas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T16:37:16.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\RedAlert\\RedAlert (2)\\Assets\\scripts\\Player\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Player\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\Admin\\RedAlert\\RedAlert (2)\\Assets\\scripts\\Player\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\scripts\\Player\\PlayerMovement.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T04:23:54.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainMenuUI.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\RedAlert\\RedAlert (2)\\Assets\\scripts\\MainMenuUI.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\MainMenuUI.cs",
+              "ToolTip": "C:\\Users\\Admin\\RedAlert\\RedAlert (2)\\Assets\\scripts\\MainMenuUI.cs",
+              "RelativeToolTip": "Assets\\scripts\\MainMenuUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T08:53:08.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "clickdebugger.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\RedAlert\\RedAlert (2)\\Assets\\scripts\\clickdebugger.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\clickdebugger.cs",
+              "ToolTip": "C:\\Users\\Admin\\RedAlert\\RedAlert (2)\\Assets\\scripts\\clickdebugger.cs",
+              "RelativeToolTip": "Assets\\scripts\\clickdebugger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T15:07:41.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "test.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\RedAlert\\RedAlert (2)\\Assets\\scripts\\test.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\test.cs",
+              "ToolTip": "C:\\Users\\Admin\\RedAlert\\RedAlert (2)\\Assets\\scripts\\test.cs",
+              "RelativeToolTip": "Assets\\scripts\\test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T15:07:41.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WindowInteractable.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\RedAlert\\RedAlert (2)\\Assets\\scripts\\WindowInteractable.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\WindowInteractable.cs",
+              "ToolTip": "C:\\Users\\Admin\\RedAlert\\RedAlert (2)\\Assets\\scripts\\WindowInteractable.cs",
+              "RelativeToolTip": "Assets\\scripts\\WindowInteractable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T08:53:08.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\RedAlert\\RedAlert (2)\\Assets\\scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\RedAlert\\RedAlert (2)\\Assets\\scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\scripts\\GameManager.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T08:30:18.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlayerSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\RedAlert\\RedAlert (2)\\Assets\\scripts\\PlayerSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\PlayerSpawner.cs",
+              "ToolTip": "C:\\Users\\Admin\\RedAlert\\RedAlert (2)\\Assets\\scripts\\PlayerSpawner.cs",
+              "RelativeToolTip": "Assets\\scripts\\PlayerSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T08:53:06.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\RedAlert\\RedAlert (2)\\Assets\\scripts\\Player\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Player\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\Admin\\RedAlert\\RedAlert (2)\\Assets\\scripts\\Player\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\scripts\\Player\\PlayerMovement.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAwDEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T06:27:42.916Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

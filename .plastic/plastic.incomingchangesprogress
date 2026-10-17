@@ -1,0 +1,20 @@
+[
+  {
+    "MountId": "56e62dd7-241f-41e9-8c6b-dd4ca4513e62",
+    "AncestorCsetIds": [
+      89
+    ],
+    "SourceCsetId": 90,
+    "DestinationCsetId": 89,
+    "FileConflicts": [
+      {
+        "Path": "/Assets/TextMesh Pro/Resources/Fonts & Materials/Jersey10-Regular SDF.asset",
+        "ItemId": 4869,
+        "ParentItemId": 884,
+        "BaseRevId": 4831,
+        "SourceRevId": 4887,
+        "DestinationRevId": 4831
+      }
+    ]
+  }
+]

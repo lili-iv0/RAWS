@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c542514f5ef81541939702c6ca90536, type: 3}
+  m_Name: repairwindows
+  m_EditorClassIdentifier: Assembly-CSharp::QuestData
+  questID: repair_windows
+  questTitle: questTitle
+  description: Repair the Windows
+  steps:
+  - stepID: repair_window_1
+    description: Repair window 1
+    type: 2
+    requiredItem: {fileID: 0}
+    requiredAmount: 0
+    targetObjectID: window1
+    targetZoneID: 
+    isComplete: 0
+  - stepID: repair_window_2
+    description: Repair window 2
+    type: 2
+    requiredItem: {fileID: 0}
+    requiredAmount: 0
+    targetObjectID: window2
+    targetZoneID: 
+    isComplete: 0
+  - stepID: repair_window_3
+    description: Repair window 3
+    type: 2
+    requiredItem: {fileID: 0}
+    requiredAmount: 0
+    targetObjectID: window3
+    targetZoneID: 
+    isComplete: 0
+  - stepID: repair_window_4
+    description: Repair window 4
+    type: 2
+    requiredItem: {fileID: 0}
+    requiredAmount: 0
+    targetObjectID: window4
+    targetZoneID: 
+    isComplete: 0
+  - stepID: repair_window_5
+    description: Repair window 5
+    type: 2
+    requiredItem: {fileID: 0}
+    requiredAmount: 0
+    targetObjectID: window5
+    targetZoneID: 
+    isComplete: 0
+  - stepID: repair_window_6
+    description: Repair window 6
+    type: 2
+    requiredItem: {fileID: 0}
+    requiredAmount: 0
+    targetObjectID: window6
+    targetZoneID: 
+    isComplete: 0
+  - stepID: repair_window_7
+    description: Repair window 7
+    type: 2
+    requiredItem: {fileID: 0}
+    requiredAmount: 0
+    targetObjectID: window7
+    targetZoneID: 
+    isComplete: 0

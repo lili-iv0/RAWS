@@ -1,0 +1,3 @@
+rep "RedAlert/RedAlert@18968365672417@cloud"
+  path "/"
+    smartbranch "/main"
